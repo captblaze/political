@@ -22,7 +22,15 @@ p{
 footer{
     text-align: center;    
 }
-#youngFem, #maturedFem, #youngMale, #maturedMale {
+.youngFem {
     display: none;
 }
-
+.maturedMale {
+    display: none;
+}
+#maturedFem {
+    display: none;
+}
+.youngMale {
+    display: none;
+}
